@@ -20,7 +20,7 @@ Digital VLSI, Digital System Design, Computer Architecture, Processor System Des
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakee63&layout=compact&theme=github_dark)
 
-![Alt Text](https://img.shields.io/badge/Thanks_for_visiting!-blue)
+![Alt Text](https://img.shields.io/badge/Thanks%20for%20visiting!-blue?style=plastic)
 
 
 
