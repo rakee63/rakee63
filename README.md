@@ -15,7 +15,7 @@ Digital VLSI, Digital System Design, Computer Architecture, Processor System Des
 
 ## Skills
 - **Languages:** Verilog HDL, C, Python
-- **Tools:** Xillinx Vivado, Cadence, Sentaurus TCAD, LaTeX, Visual Studio code, Git
+- **Tools:** Xillinx Vivado, Cadence Virtuoso, Sentaurus TCAD, LaTeX, Visual Studio code, Git
 
 ## GitHub Stats
 ![Rakesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakee63&show_icons=true&theme=github_dark)
