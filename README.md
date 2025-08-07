@@ -5,6 +5,11 @@
 [![Alt Text](https://img.shields.io/badge/ORCID-green)](https://orcid.org/0009-0008-7372-2596)
 
 
+![Alt Text](https://user-images.githubusercontent.com/74038190/212259400-1b824d3f-ae84-4da9-a77b-dc13277d196c.png)
+
+
+
+
 I am a MTech Microelectronics and VLSI Design 2024-25 student at IISc Bangalore. I have completed my BTech in Electronics and Communication Engineering from MVGR Vizianagaram, Andhrapradesh in 2024. I am a VLSI enthusiast and interested in tech stack.
 
 I'm currently working on ASIC design of 64-bit RISCV processor in Reconfigurable Computing Lab at IISc.
