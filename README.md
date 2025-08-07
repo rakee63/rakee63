@@ -1,4 +1,3 @@
-<img width="2000" height="2000" alt="octocat-1754557045129" src="https://github.com/user-attachments/assets/0bdec8e2-ec9a-49ee-a103-c560ccdfeff3" />
 # Hi there 👋, I'm Rakesh Andavarapu
 
 [![Alt Text](https://img.shields.io/badge/GitHub-white?logo=GitHub&logoColor=black)](https://github.com/rakee63)
@@ -6,10 +5,7 @@
 [![Alt Text](https://img.shields.io/badge/ORCID-green)](https://orcid.org/0009-0008-7372-2596)
 
 
-![Alt Text](https://user-images.githubusercontent.com/74038190/212259400-1b824d3f-ae84-4da9-a77b-dc13277d196c.png)
-
-
-
+![Alt Text](https://user-images.githubusercontent.com/74038190/212259400-1b824d3f-ae84-4da9-a77b-dc13277d196c.png) <img width="500" height="500" alt="octocat-1754557045129" src="https://github.com/user-attachments/assets/0bdec8e2-ec9a-49ee-a103-c560ccdfeff3" />
 
 I am a MTech Microelectronics and VLSI Design 2024-25 student at IISc Bangalore. I have completed my BTech in Electronics and Communication Engineering from MVGR Vizianagaram, Andhrapradesh in 2024. I am a VLSI enthusiast and interested in tech stack.
 
