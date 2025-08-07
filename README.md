@@ -1,3 +1,4 @@
+<img width="2000" height="2000" alt="octocat-1754557045129" src="https://github.com/user-attachments/assets/0bdec8e2-ec9a-49ee-a103-c560ccdfeff3" />
 # Hi there 👋, I'm Rakesh Andavarapu
 
 [![Alt Text](https://img.shields.io/badge/GitHub-white?logo=GitHub&logoColor=black)](https://github.com/rakee63)
